@@ -1,0 +1,27 @@
+body{
+  background-color: lightgreen;
+}
+
+
+.contenitore{
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.casella-password{
+  height: 300px;
+  width: 500px;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 40px;
+}
+
+.casella-password h2{
+  color: white;
+  line-height: 50px;
+  text-align: center;
+}
